@@ -5,7 +5,7 @@ const Welcome =()=> {
   return (
     <div> 
         <Header />
-        <h1>WELCOME MY USER HAPPY CODING>.....</h1>
+        <h1>WELCOME MY USER HAPPY CODING.....</h1>
         </div>
   )
 }
